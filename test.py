@@ -1,2 +1,2 @@
- git merge "master" "dev"
+ git merge "master" 
 print "Hello World"
